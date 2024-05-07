@@ -1,11 +1,11 @@
-네이버 뉴스 성소수자 관련 댓글을 분류한 데이터셋
+# 네이버 뉴스 성소수자 관련 댓글을 분류한 데이터셋
 
-데이터 출처 : https://www.kaggle.com/datasets/junbumlee/lgbt-hatespeech-comments-at-naver-news-korean
+1. 데이터 출처 : https://www.kaggle.com/datasets/junbumlee/lgbt-hatespeech-comments-at-naver-news-korean
 ![image](https://github.com/byeolki/Naver-News-categorizes-comments-related-to-sexual-minorities/assets/97008863/af00a5b5-b83a-487f-9e42-ae3a1be689cb)
 
-훈련 데이터 갯수 : 7068
-검증 데이터 갯수 : 1767
-테스트 데이터 갯수 : 2205
+- 훈련 데이터 갯수 : 7068
+- 검증 데이터 갯수 : 1767
+- 테스트 데이터 갯수 : 2205
 
 
 사용 모델 : LSTM
