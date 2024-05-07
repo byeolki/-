@@ -13,10 +13,9 @@
 ![image](https://github.com/byeolki/Naver-News-categorizes-comments-related-to-sexual-minorities/assets/97008863/8fece408-4201-48ad-91c6-429e5d52ae26)
 
 
-3. 훈련 횟수 : 100 epoch
-
-- 최저 손실 : 0.0184
-- 최대 정확도 : 0.9434
+3. 훈련 횟수 : 100 epochs
+- 최저 손실 : 0.0005
+- 최대 정확도 : 0.9999
 
 ![image](https://github.com/byeolki/Naver-News-categorizes-comments-related-to-sexual-minorities/assets/97008863/d01b6695-dfff-4cb3-b27f-2ddbcf0bc188)
 
