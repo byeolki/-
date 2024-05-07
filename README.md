@@ -19,4 +19,4 @@
 
 ![image](https://github.com/byeolki/Naver-News-categorizes-comments-related-to-sexual-minorities/assets/97008863/d01b6695-dfff-4cb3-b27f-2ddbcf0bc188)
 
-4. 고찰 : 위 데이터를 학습시켜보면서 토큰화와 LSTM을 복습할 수 있었고, 데이터가 적어서 좋은 결과가 안 나와서 아쉬웠음.
+4. 고찰 : 위 데이터를 학습시켜보면서 토큰화와 LSTM에 대해서 복습할 수 있었고<br>토큰화에 대해서 좀 더 자세하게 공부하는 계기가 됨.<br>데이터 양이 많지 않아서 학습 결과에 대해서 아쉬웠음.
